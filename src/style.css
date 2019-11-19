@@ -1,0 +1,9 @@
+body {
+    background-color: lightblue;
+  }
+.card{
+    background-color: paleturquoise;
+}
+.list-group-item{
+    background-color: rgb(52, 214, 193);
+}
